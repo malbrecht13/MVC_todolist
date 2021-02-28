@@ -1,0 +1,32 @@
+.copyright {
+    font-size: 0.7em;
+    color: gray;
+    font-style: italic;
+    text-align: right;
+}
+
+h1 {
+    color: blue;
+}
+
+.error {
+    color: red
+}
+
+.return {
+    color: rgb(7, 7, 133);
+    font-size: 12px;
+}
+
+.return a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.return a:hover {
+    color: blue;
+}
+
+button > a {
+    text-decoration: none;
+}
